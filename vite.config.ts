@@ -2,13 +2,16 @@ import { defineConfig } from "vite";
 
 const viteConfig = defineConfig({
   server: {
-    host: 'localhost',
+    host: "localhost",
     port: 3000,
   },
   preview: {
-    host: 'localhost',
-    port: 8080
-  }
+    host: "localhost",
+    port: 8080,
+  },
+  css: {
+    devSourcemap: true,
+  },
 });
 
 export default viteConfig;
