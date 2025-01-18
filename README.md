@@ -2,7 +2,7 @@
 
 React 학습 시작을 위한 사용자 정의 템플릿
 
-degit yamoo9/likelion-vite-react <폴더_이름>
+degit neulhi/vite-react-ts <폴더_이름>
 cd <폴더_이름>
 pnpm install # 또는 npm install
 
