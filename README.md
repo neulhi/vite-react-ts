@@ -3,7 +3,7 @@
 React 학습 시작을 위한 사용자 정의 템플릿
 
 ```sh
-degit neulhi/vite-react-ts <폴더_이름>
+npx degit neulhi/vite-react-ts <폴더_이름>
 cd <폴더_이름>
 npm install # 또는 pnpm install
 ```
